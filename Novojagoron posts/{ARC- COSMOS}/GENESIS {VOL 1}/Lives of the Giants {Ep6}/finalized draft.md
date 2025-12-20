@@ -1,7 +1,7 @@
-
+![[c075335c-e3e6-461f-813e-425d2a9df65e.mp4]]
+slide 1 
 ___
-Slide 1 — TITLE / HOOK (dynamic)
-
+Slide 2 — TITLE / HOOK (dynamic)
 **LIVES OF THE GIANTS**  
 Beneath a serene veil of cosmic dust, titans are born—their brief, brilliant lives forging the very elements of existence, only to end in the most spectacular violence the universe knows.  
 _(Visual: A deep, dramatic image of the Carina Nebula or a similar stellar nursery, filled with light and shadow.)_
