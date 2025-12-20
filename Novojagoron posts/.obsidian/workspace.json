@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "010a008dd6c76f96",
+    "type": "split",
+    "children": [
+      {
+        "id": "580c9ef3e73279a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b81e971cde952569",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "{ARC- COSMOS}/GENESIS {VOL 1}/Lives of the Giants {Ep6}/Novojagoron Instagram Post Draft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Novojagoron Instagram Post Draft"
+            }
+          },
+          {
+            "id": "2dfbea7e866b66da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "{ARC- COSMOS}/GENESIS {VOL 1}/The First Dawn {Ep1}}/Instagram Post Draft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Instagram Post Draft"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d301440ac978cf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ae64e0ea7a57a40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2d529a693465806",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "53ce5a24e0b3dd97",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f8b6ebcfe262d88e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "edb30c1170b21f53",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccd6fe6a0040a184",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23dfaae914969ccd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TELESCOPES.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TELESCOPES"
+            }
+          },
+          {
+            "id": "45b127a9c8acdc8b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TELESCOPES.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TELESCOPES"
+            }
+          },
+          {
+            "id": "a57959e1d64a4529",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1fc167ee90ebd79f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TELESCOPES.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TELESCOPES"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2dfbea7e866b66da",
+  "lastOpenFiles": [
+    "{ARC- COSMOS}/GENESIS {VOL 1}/The First Dawn {Ep1}}/Instagram Post Draft.md",
+    "Untitled 7.base",
+    "Untitled 6.base",
+    "Untitled 5.base",
+    "Untitled 4.base",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
+    "{ARC- COSMOS}/GENESIS {VOL 1}/Lives of the Giants {Ep6}/Novojagoron Instagram Post Draft.md",
+    "{ARC- COSMOS}/GENESIS {VOL 1}/Celestial Firekeepers (নক্ষত্র) {Ep5}/Untitled.md",
+    "PLAN {novojagoron}/LEVEL 1/PHASE 1.md",
+    "{ARC- COSMOS}/GENESIS {VOL 1}/The Endless Firmament {Ep2}/Untitled.md",
+    "{ARC- COSMOS}/GENESIS {VOL 1}/The Cosmic Archipelago {Ep8}",
+    "{ARC- COSMOS}/GENESIS {VOL 1}/Untitled/Untitled",
+    "{ARC- COSMOS}/Untitled.md",
+    "Personal Space/Personal Space.md",
+    "My Cosmic Understanding/Density.md",
+    "Personal Space/Why Ambitious people are the best procrastinators.md",
+    "Personal Space/Journal.md",
+    "PyDataAnaly notes/From GPT.md",
+    "My Cosmic Understanding/Fields of study.md",
+    "Untitled 2/Pasted image 20250903174250.png",
+    "Untitled 2/Pasted image 20250904182040.png",
+    "Untitled 2/Pasted image 20250906223132.png",
+    "Untitled 2/Pasted image 20250904145233.png",
+    "My Cosmic Understanding/The Earth.md",
+    "Untitled/PW Magnetism Quick notes.md",
+    "Untitled 2/Pasted image 20250906235658.png",
+    "Untitled 2/Pasted image 20250906234911.png",
+    "Untitled 2/Pasted image 20250906234851.png",
+    "Untitled/PW Magnetism.md",
+    "Untitled 2/Pasted image 20250906223110.png",
+    "Untitled 2/Pasted image 20250906223049.png",
+    "Untitled 2/Pasted image 20250904183447.png",
+    "Draft for the presentation.md",
+    "ACCESSABILITY.md",
+    "11 Points for the PowerPoint Presentation.md",
+    "ব্লগ পোস্ট.md",
+    "Machine Learning.md",
+    "TRADING.md",
+    "জীববিজ্ঞান.md",
+    "FOUNDATION AND DESIGN.md",
+    "CONSTELLATIONS.md",
+    "COMPUTER.md",
+    "BOOKS.md",
+    "My Cosmic Understanding/Untitled.canvas"
+  ]
+}
