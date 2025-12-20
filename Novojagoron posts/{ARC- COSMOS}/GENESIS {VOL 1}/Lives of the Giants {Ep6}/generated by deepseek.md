@@ -6,8 +6,9 @@ _(Visual: A deep, dramatic image of the Carina Nebula or a similar stellar nurse
 
 ### **Slide 2 — THE COSMIC FORGE**
 
-They are not merely stars; they are the universe’s great alchemists. Stars over eight times the mass of our Sun burn with such ferocity that in their cores, they fuse atoms into heavier and heavier elements—all the way to iron. Their catastrophic deaths then scatter these forged materials across the galaxy, seeding future worlds and the potential for life.
-
+They are not merely stars; they are the universe’s great alchemists. Stars over eight times the mass of our Sun (>8 × Sun) burn with such ferocity that in their cores, they fuse atoms into heavier and heavier elements—all the way to iron. Their catastrophic deaths then scatter these forged materials across the galaxy, seeding future worlds and the potential for life.
+(Reference: Bowman — massive star interiors & explosions)  
+(Visual: faint element symbols drifting through a nebula)
 ### **Slide 3 — BIRTH IN THE COSMIC CLOUDS**
 
 It begins in tranquil, colossal clouds of gas and dust—stellar nurseries like glittering cosmic wombs. Gravity’s silent pull gathers matter into a dense, hot protostar. For a massive star, this ignition is not a gentle awakening but a violent, rapid blaze into being. Astronomers listen to the subtle oscillations of these infant giants, using asteroseismology to understand their hidden inner structures.

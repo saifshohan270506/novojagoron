@@ -1,1 +1,0 @@
-Encrypted obsidian (vault folder)
