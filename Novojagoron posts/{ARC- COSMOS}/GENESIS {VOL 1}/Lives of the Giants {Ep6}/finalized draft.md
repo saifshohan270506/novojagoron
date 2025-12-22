@@ -126,7 +126,7 @@ Follow **Novojagoron** for more journeys into the heart of the cosmos.
 
 
 **Point To Be Noted (PTBN):** 
-total img/GIF/graph/videos needed - 10 ta
+total img/GIF/graph/videos needed - 10 ta. 
 slide no: 1, 5, 6, 8, 9, 10, 11, 12, 13, 17
 jeigula badd deowa jai lekha se sheigula bad dile thik 20 ta hoi. 
 no need to change that, already perfect.
