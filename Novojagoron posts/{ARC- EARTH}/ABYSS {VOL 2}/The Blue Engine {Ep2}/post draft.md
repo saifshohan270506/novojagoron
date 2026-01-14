@@ -1,9 +1,4 @@
-Here are the generated slides for **Episode 2: The Blue Engine**, continuing our descent into the **ABYSS** volume by exploring the ocean's planetary circulatory system.
-
----
-
-### **Episode 2: The Blue Engine**
-**Earth Arc | Volume 2: ABYSS**
+Context [[EarthVol2ep2]]
 
 ---
 

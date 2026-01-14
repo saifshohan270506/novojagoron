@@ -1,3 +1,4 @@
+Context [[CosmosVol1ep5]]
 **Slide 1 — TITLE / HOOK (Dynamic)**  
 **CELESTIAL FIREKEEPERS**  
 From the violent forges of their birth, stars settle into lives of astonishing stability. What keeps their fires burning for billions of years? This is the story of the nuclear alchemy within and the secret language of their light.  

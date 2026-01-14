@@ -1,9 +1,4 @@
-Here are the generated slides for **Episode 4: The Living Skin of Earth**, completing the exploration of Earth's dynamic surface in the **FORGE** volume.
-
----
-
-### **Episode 4: The Living Skin of Earth**
-**Earth Arc | Volume 1: FORGE**
+Context [[EarthVol1ep4]]
 
 ---
 

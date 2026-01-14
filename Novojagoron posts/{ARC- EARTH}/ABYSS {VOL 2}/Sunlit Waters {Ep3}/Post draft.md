@@ -1,9 +1,4 @@
-Here are the generated slides for **Episode 3: Sunlit Waters**, marking the beginning of **Volume 2: ABYSS** in the Earth Arc.
-
----
-
-### **Episode 3: Sunlit Waters**
-**Earth Arc | Volume 2: ABYSS**
+Context [[EarthVol2ep3]]
 
 ---
 

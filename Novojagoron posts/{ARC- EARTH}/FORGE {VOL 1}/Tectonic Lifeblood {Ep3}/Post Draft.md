@@ -1,11 +1,5 @@
-Here are the generated slides for **Episode 3: Tectonic Lifeblood**, continuing the story of Earth's geophysical forge by revealing the dynamic engine of its surface.
+Context [[EarthVol1ep3]] 
 
----
-
-### **Episode 3: Tectonic Lifeblood**
-**Earth Arc | Volume 1: FORGE**
-
----
 
 **Slide 1 — TITLE / HOOK (Dynamic)**
 **TECTONIC LIFEBLOOD**

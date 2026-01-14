@@ -1,9 +1,4 @@
-Here are the generated slides for **Episode 5: Fire Below, Life Above**, forging the crucial link between Earth's internal engine and the conditions for life on its surface.
-
----
-
-### **Episode 5: Fire Below, Life Above**
-**Earth Arc | Volume 1: FORGE**
+Context [[EarthVol1ep5]]
 
 ---
 

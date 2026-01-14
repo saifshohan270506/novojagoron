@@ -1,9 +1,4 @@
-Here are the generated slides for **Episode 7: The Ocean's Memory**, revealing the deep seafloor as Earth's ultimate historical archive.
-
----
-
-### **Episode 7: The Ocean's Memory**
-**Earth Arc | Volume 2: ABYSS**
+Context [[EarthVol2ep7]]
 
 ---
 

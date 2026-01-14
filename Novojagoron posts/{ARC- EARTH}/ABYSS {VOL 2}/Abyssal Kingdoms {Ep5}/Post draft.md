@@ -1,9 +1,4 @@
-Here are the generated slides for **Episode 5: Abyssal Kingdoms**, venturing into the deepest, darkest, and most extreme realms of the ocean.
-
----
-
-### **Episode 5: Abyssal Kingdoms**
-**Earth Arc | Volume 2: ABYSS**
+Context [[EarthVol2ep5]]
 
 ---
 

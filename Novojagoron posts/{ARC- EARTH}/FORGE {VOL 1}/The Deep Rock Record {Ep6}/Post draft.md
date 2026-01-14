@@ -1,9 +1,4 @@
-Here are the generated slides for **Episode 6: The Deep Rock Record**, revealing how Earth's 4.6-billion-year history is written in stone and decoded by science.
-
----
-
-### **Episode 6: The Deep Rock Record**
-**Earth Arc | Volume 1: FORGE**
+Context [[CosmosVol1Ep6]]
 
 ---
 

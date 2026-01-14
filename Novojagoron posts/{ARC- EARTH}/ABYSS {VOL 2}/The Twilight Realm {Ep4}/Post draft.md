@@ -1,9 +1,4 @@
-Here are the generated slides for **Episode 4: The Twilight Realm**, descending deeper into the mysteries of the ocean's mesopelagic zone.
-
----
-
-### **Episode 4: The Twilight Realm**
-**Earth Arc | Volume 2: ABYSS**
+Context [[EarthVol2ep4]]
 
 ---
 

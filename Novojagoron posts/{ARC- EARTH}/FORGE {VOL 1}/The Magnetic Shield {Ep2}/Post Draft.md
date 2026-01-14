@@ -1,9 +1,4 @@
-Here are the generated slides for **Episode 2: The Magnetic Shield**, continuing the story of Earth's geophysical forge.
-
----
-
-### **Episode 2: The Magnetic Shield**
-**Earth Arc | Volume 1: FORGE**
+Context [[EarthVol1ep2]]
 
 ---
 

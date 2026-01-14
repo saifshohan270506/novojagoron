@@ -1,8 +1,4 @@
-### **Episode 1: The Iron Heart**
-
-**Earth Arc | Volume 1: FORGE**
-
----
+Context [[EarthVol1ep1]]
 
 **Slide 1 — TITLE / HOOK (Dynamic)**  
 **THE IRON HEART**  

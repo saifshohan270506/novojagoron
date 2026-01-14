@@ -1,12 +1,6 @@
+Context [[EarthVol1ep8]]
+
 We are now at the final episode of the FORGE volume. This episode ties together all previous themes to explain Earth's most defining feature: water. We'll cover the origin of Earth's water, its distribution, its role in geology and climate, and why Earth is uniquely suited to maintain it.
-
-Let's break down the slides according to the provided blueprint.
-
----
-
-### **Episode 8: The Water Planet**
-
-**Earth Arc | Volume 1: FORGE**
 
 ---
 

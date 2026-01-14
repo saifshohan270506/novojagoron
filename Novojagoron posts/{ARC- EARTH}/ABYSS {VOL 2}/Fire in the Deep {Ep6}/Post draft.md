@@ -1,9 +1,4 @@
-Here are the generated slides for **Episode 6: Fire in the Deep**, revealing the astonishing, chemosynthetic oases of the abyss.
-
----
-
-### **Episode 6: Fire in the Deep**
-**Earth Arc | Volume 2: ABYSS**
+Context [[EarthVol2ep6]]
 
 ---
 
@@ -13,7 +8,7 @@ In the eternal cold and crushing darkness of the abyss, where life should be imp
 *(Visual: A breathtaking ROV image of a towering black smoker vent, billowing dark "smoke," surrounded by a vibrant colony of red-tipped tubeworms and white galatheid crabs.)*
 
 **Slide 2 — THE DISCOVERY THAT REWROTE BIOLOGY**
-1977. The submersible **Alvin** descended to the Galapagos Rift expecting a barren seafloor. What they found was a jungle of giant worms, clams, and blind shrimp. Biology had to invent a new rulebook for life.
+The submersible **Alvin** descended to the Galapagos Rift expecting a barren seafloor. What they found was a jungle of giant worms, clams, and blind shrimp. Biology had to invent a new rulebook for life.
 *(Visual: A compelling side-by-side: a grainy, awe-struck 1977 sketch from the Alvin crew next to a first-color photograph of the vent community.)*
 
 **Slide 3 — WHERE THE ABYSS MEETS THE FORGE (CAMEO)**

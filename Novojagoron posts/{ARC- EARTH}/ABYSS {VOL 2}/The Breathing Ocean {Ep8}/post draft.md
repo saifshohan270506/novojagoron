@@ -1,9 +1,4 @@
-Here are the generated slides for **Episode 8: The Breathing Ocean**, the culminating chapter of the **ABYSS** volume, synthesizing the ocean's vital role and its present crisis.
-
----
-
-### **Episode 8: The Breathing Ocean**
-**Earth Arc | Volume 2: ABYSS**
+Context [[EarthVol2ep8]]
 
 ---
 

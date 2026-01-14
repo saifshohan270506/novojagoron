@@ -1,9 +1,4 @@
-Here are the generated slides for **Episode 7: The Carbon Engine**, the culminating synthesis of the **FORGE** volume, revealing Earth's planetary climate thermostat.
-
----
-
-### **Episode 7: The Carbon Engine**
-**Earth Arc | Volume 1: FORGE**
+Context [[EarthVol1ep8]]
 
 ---
 

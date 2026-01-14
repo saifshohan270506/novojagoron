@@ -1,9 +1,4 @@
-Here are the generated slides for **Episode 1: The Global Sea**, launching **Volume 2: ABYSS** of the Earth Arc.
-
----
-
-### **Episode 1: The Global Sea**
-**Earth Arc | Volume 2: ABYSS**
+Context [[EarthVol2ep1]]
 
 ---
 
