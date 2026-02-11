@@ -1,11 +1,11 @@
 Context [[CosmosVol1ep2]]
 **Slide 1 — TITLE / HOOK (Dynamic)**  
 **THE ENDLESS FIRMAMENT**  
-From the first dawn of light, the universe began to weave itself into a tapestry of unimaginable scale. This is the story of our cosmic horizon—a journey from a pale blue dot to the edge of all we can see and know.  
+From the first dawn of light, the universe began to weave itself into a tapestry of unimaginable scale. This is the story of our cosmic horizon—a journey from a pale blue dot to the edge of all we can see and know.
 _(Visual: A stunning composite: Earth in the foreground, zooming out through star fields to a vast cosmic web.)_
 
 **Slide 2 — FROM UNIFORMITY TO STRUCTURE**  
-We left the universe as a nearly smooth, glowing fog of hydrogen (the CMB). How did we get from that featureless dawn to the clumpy, structured cosmos of galaxies and voids we see today? The answer lies in the relentless pull of gravity on the seeds of creation.  
+We left the universe as a nearly smooth, glowing fog of hydrogen (the CMB). How did we get from that featureless dawn to the clumpy, structured cosmos of galaxies and voids we see today? The answer lies in the relentless pull of gravity on the seeds of creation. 
 _(Visual: A split-screen. Left: The smooth CMB map. Right: A modern galaxy survey map. An arrow connects them.)_
 
 **Slide 3 — DEFINING OUR VIEW: The Observable Universe**  
@@ -22,7 +22,6 @@ To map this vastness, we built a ladder, each step relying on the last.
 3. **Type Ia Supernovae:** The ultimate standard candles, reaching distant galaxies.  
     _(Visual: An elegant, vertical infographic of the "ladder" with icons for each method.)_  
     _This ladder is the foundation of all cosmic cartography._
-    
 
 **Slide 5 — OUR GALACTIC HOME: The Milky Way**  
 Our island in the void. A barred spiral galaxy of **100-400 billion stars**. Our Solar System resides in the quiet Orion Arm. The entire disk is 100,000 light-years across.  
