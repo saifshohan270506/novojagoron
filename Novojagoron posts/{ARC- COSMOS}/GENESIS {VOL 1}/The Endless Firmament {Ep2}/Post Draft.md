@@ -59,7 +59,7 @@ _(Visual: The iconic "Observable Universe Logarithmic Map" by Pablo Carlos Budas
 
 **Slide 13 — THE HORIZON OF KNOWLEDGE**  
 This horizon is a **limit of light and time, not a physical wall**. Space almost certainly continues identically beyond. The **entire universe** may be infinite, but it is fundamentally unknowable from our single point within it.  
-_(Visual: A philosophical visual: the Observable Universe sphere, fading into speculative, repeating patterns of web structures outside its boundary.)_
+
 
 **Slide 14 — A PERSPECTIVE SHIFT (The Pale Blue Dot)**  
 To understand the endless firmament is to understand our place: **on a pale blue dot, within a solar system, in the arm of a galaxy, part of a group, on the fringe of a cluster, in a supercluster, along a filament of the web, beside a void, inside a horizon.**  
